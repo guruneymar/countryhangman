@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countryhangman/static/css/main.0604c7c8.css",
+    "main.js": "/countryhangman/static/js/main.12f46d44.js",
+    "static/js/787.20ace30e.chunk.js": "/countryhangman/static/js/787.20ace30e.chunk.js",
+    "index.html": "/countryhangman/index.html",
+    "main.0604c7c8.css.map": "/countryhangman/static/css/main.0604c7c8.css.map",
+    "main.12f46d44.js.map": "/countryhangman/static/js/main.12f46d44.js.map",
+    "787.20ace30e.chunk.js.map": "/countryhangman/static/js/787.20ace30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0604c7c8.css",
+    "static/js/main.12f46d44.js"
+  ]
+}
